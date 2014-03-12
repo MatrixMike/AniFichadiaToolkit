@@ -1,0 +1,7 @@
+.externalToolBuilders/
+.settings/
+bin/
+src/com/anifichadia/examples
+src/com/anifichadia/incomplete
+*.class
+AniFichadiaToolkit.jar

@@ -1,0 +1,11 @@
+com.anifichadia.toolkit.file
+com.anifichadia.toolkit.file.comparators
+com.anifichadia.toolkit.file.filters
+com.anifichadia.toolkit.file.io
+com.anifichadia.toolkit.geometry
+com.anifichadia.toolkit.geopartition
+com.anifichadia.toolkit.math.statistics
+com.anifichadia.toolkit.program
+com.anifichadia.toolkit.random
+com.anifichadia.toolkit.utilities
+com.eekboom.utils
