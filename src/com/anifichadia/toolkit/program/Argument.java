@@ -123,7 +123,7 @@ public class Argument
 	 * <ul>
 	 * <li>a flag</li>
 	 * <li>single value</li>
-	 * <li>mutli-value</li>
+	 * <li>multi-value</li>
 	 * </ul>
 	 * 
 	 * @author Aniruddh Fichadia | Email: Ani.Fichadia@gmail.com | GitHub Username: AniFichadia
